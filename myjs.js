@@ -1,2 +1,2 @@
 alert('Hello,Оsamu!');
-alert(1+1)
+alert(1+1);
